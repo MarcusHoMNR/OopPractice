@@ -1,10 +1,16 @@
-com/afs/oopractice/Objects/Vehicle.java
- com.afs.oopractice.Objects.Vehicle
-com/afs/oopractice/Objects/Truck.java
- com.afs.oopractice.Objects.Truck
+com/afs/oopractice/Objects/GasolineEngine.java
+ com.afs.oopractice.Objects.GasolineEngine
 com/afs/oopractice/Objects/Car.java
  com.afs.oopractice.Objects.Car
-com/afs/oopractice/Objects/Driver.java
- com.afs.oopractice.Objects.Driver
+com/afs/oopractice/Objects/ElectricEngine.java
+ com.afs.oopractice.Objects.ElectricEngine
+com/afs/oopractice/Objects/Truck.java
+ com.afs.oopractice.Objects.Truck
+com/afs/oopractice/Objects/Engine.java
+ com.afs.oopractice.Objects.Engine
 com/afs/oopractice/HelloWorld.java
  com.afs.oopractice.HelloWorld
+com/afs/oopractice/Objects/Vehicle.java
+ com.afs.oopractice.Objects.Vehicle
+com/afs/oopractice/Objects/Driver.java
+ com.afs.oopractice.Objects.Driver
