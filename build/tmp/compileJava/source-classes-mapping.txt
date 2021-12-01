@@ -1,4 +1,6 @@
 com/afs/oopractice/Objects/Car.java
  com.afs.oopractice.Objects.Car
+com/afs/oopractice/Objects/Truck.java
+ com.afs.oopractice.Objects.Truck
 com/afs/oopractice/HelloWorld.java
  com.afs.oopractice.HelloWorld
